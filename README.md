@@ -12,7 +12,14 @@
     git add .
 ```
 
-### For adding changes in project use this command
+### For commiting changes in project use this command
+
+```
+    git commit -m 'commit type: command desc'
+```
+
+
+### For pushing  in project use this command
 
 ```
     git commit -m 'commit type: command desc'

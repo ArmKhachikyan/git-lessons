@@ -11,3 +11,9 @@
 ```
     git add .
 ```
+
+### For adding changes in project use this command
+
+```
+    git commit -m 'commit type: command desc'
+```

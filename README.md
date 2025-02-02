@@ -51,5 +51,9 @@
 
 ### for checkouting already existed branch use this command
 ```
-git checkout <branch name>
+    git checkout <branch name>
+```
+### for get all updates from code  use this command
+```
+    git pull
 ```

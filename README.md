@@ -26,5 +26,11 @@
 ```
 ### for checking git branch use this command
 ```
-git branch
+    git branch
+```  
+
+
+### for creating new  git branch and changed direct to  that branch use this command
+```
+    git checkout -b <branch name> 
 ```  

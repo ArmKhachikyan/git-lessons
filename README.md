@@ -5,3 +5,9 @@
 ```
     git init
 ```
+
+### For adding changes in project use this command
+
+```
+    git add .
+```

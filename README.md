@@ -24,3 +24,7 @@
 ```
     git push 
 ```
+### for checking git branch use this command
+```
+git branch
+```  

@@ -22,5 +22,5 @@
 ### For pushing  in project use this command
 
 ```
-    git commit -m 'commit type: command desc'
+    git push 
 ```

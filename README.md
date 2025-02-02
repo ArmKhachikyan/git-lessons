@@ -26,5 +26,24 @@
 ```
 ### for checking git branch use this command
 ```
-git branch
+    git branch
 ```  
+
+
+### for creating new  git branch and changed direct to  that branch use this command
+```
+    git checkout -b <branch name> 
+```  
+
+
+### For opening Pull request (PR) use this
+![alt text](image.png) 
+
+#### Or this one
+![alt text](image-1.png) 
+
+#### And finally open PR from one branch to other
+![alt text](image-2.png) 
+
+#### Here is your PR and you can merge it now
+![alt text](image-3.png)

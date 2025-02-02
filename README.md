@@ -57,3 +57,7 @@
 ```
     git pull
 ```
+### for checking status use this command
+```
+    git status
+```

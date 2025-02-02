@@ -53,6 +53,10 @@
 ```
     git checkout <branch name>
 ```
+### for removing existed branch use this command
+```
+    git branch -D <branch name>
+```
 ### for get all updates from code  use this command
 ```
     git pull

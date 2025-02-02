@@ -47,3 +47,9 @@
 
 #### Here is your PR and you can merge it now
 ![alt text](image-3.png)
+
+
+### for checkouting already existed branch use this command
+```
+git checkout <branch name>
+```
